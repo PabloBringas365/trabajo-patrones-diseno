@@ -1,6 +1,6 @@
 # Trabajo sobre Patrones de Diseño
 
-Esta es mi práctica sobre patrones de diseño de software. Primero he puesto un pequeño resumen teórico basándome en lo que he leído en Refactoring Guru, y después detallo los ejemplos prácticos que he programado en Python.
+Esta es mi práctica sobre patrones de diseño de software. Primero he puesto un pequeño resumen teórico basándome en lo que he leído en Refactoring Guru, y después detallo los ejemplos prácticos que he programado en Python. Al final puse el enlace del video explicativo.
 
 ---
 
