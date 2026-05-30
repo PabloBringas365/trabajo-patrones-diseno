@@ -40,3 +40,6 @@ Este patrón permite definir una familia de algoritmos, encapsular cada uno en u
 ---
 
 ## Enlace al Vídeo Explicativo
+
+https://youtu.be/weBOUldlA4w?si=_4_ePOUsRRVBXUnP
+
